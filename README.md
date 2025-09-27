@@ -8,3 +8,7 @@ Day 1 notes:
 *I've decided on Unity! Going to need to speed-learn this engine though. Hopefully my previous knowledge of programming helps out.
 
 *I think I'm going to scrap my first idea. It was a cool idea, but I think I have way too little experience and there's too many working parts for me to finish in time. I have a second idea in mind, but I don't think it's as cool. I don't know. I think I should sleep on it because it's nearing 2 AM and still not much is complete.
+
+Day 2 Notes:
+
+*I think I have a good idea for a simple game. I'm going to try and implement that instead but I'm really running out of time so I hope that the implementation is simple enough where there aren't too many moving parts.
