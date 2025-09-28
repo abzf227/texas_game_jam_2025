@@ -12,3 +12,5 @@ Day 1 notes:
 Day 2 Notes:
 
 *I think I have a good idea for a simple game. I'm going to try and implement that instead but I'm really running out of time so I hope that the implementation is simple enough where there aren't too many moving parts.
+
+*Okay this is really really late so I don't think I'll finish in time (but I'm still gonna try) but I'm switching from 3D to 2D. The working parts of my idea simply don't work with a 3D environment (at least, not enough for me to finish in time). Not being a 3D modeler isn't really helping either.
